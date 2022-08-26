@@ -1,0 +1,9 @@
+mqtt:
+    url: tcp://localhost:1883
+    username: guest
+    password: '888888'
+topic:
+    - /debug/ID20220001/history
+    - /debug/ID20220002/history
+    - /debug/ID20220003/history
+    - /debug/ID20220004/history
